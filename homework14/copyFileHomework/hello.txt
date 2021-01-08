@@ -1,0 +1,1 @@
+Hey，this are the contents from hello.txt,I've learn how to copy file thought java today,so,let's hava a try!!!!!!
